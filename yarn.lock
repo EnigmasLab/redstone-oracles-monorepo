@@ -7231,7 +7231,7 @@ axios@^0.27.0, axios@^0.27.2:
     follow-redirects "^1.14.9"
     form-data "^4.0.0"
 
-axios@^1.0.0, axios@^1.5.0:
+axios@^1.0.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/axios/-/axios-1.5.0.tgz#f02e4af823e2e46a9768cfc74691fdd0517ea267"
   integrity sha512-D4DdjDo5CY50Qms0qGQTTw6Q44jl7zRwY7bthds06pUGfChBCTcQs+N743eFWGEd6pRTMd6A+I87aWyFV5wiZQ==
@@ -7970,9 +7970,9 @@ cbor@^9.0.0:
     nofilter "^3.1.0"
 
 ccxt@^4.0.78:
-  version "4.0.78"
-  resolved "https://registry.yarnpkg.com/ccxt/-/ccxt-4.0.78.tgz#22870a1d43bafadd1788b5b97a81fa5aa593fd5a"
-  integrity sha512-IOHgMiGFT7bpaOcCnLe8pYCLX5Fzio6UtVRSAvL8OnxepyWzWXChgvko26xaSh4ms39ZOBQE2UbcCLuiyDINKw==
+  version "4.0.111"
+  resolved "https://registry.yarnpkg.com/ccxt/-/ccxt-4.0.111.tgz#e499aeb67868ee6350f576c61f81b6666665e1c5"
+  integrity sha512-P2G+2JgLyXEvd9y8PetOzDqYNgTXg+NoeTCMA7la6f+zAn79GUHT64eReuk7Q3uBmBueZf99o/Sv1LVMu5ZuVA==
   dependencies:
     ws "^8.8.1"
 
